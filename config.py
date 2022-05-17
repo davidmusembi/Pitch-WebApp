@@ -8,6 +8,7 @@ class Config:
     DATABASE_URL='postgresql+psycopg2://dave:toor@localhost:5432/pitch'
     UPLOADED_PHOTOS_DEST ='app/static'
     SQLALCHEMY_TRACK_MODIFICATIONS = True
+    
     # email configurations
     # MAIL_SERVER = 'smtp.gmail.com'
     # MAIL_PORT = 587
