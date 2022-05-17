@@ -3,6 +3,8 @@ A web application that gives the user an opportunity to pitch ideas, login, comm
 
 ## By David Musembi
 
+## live link
+[]: # Link: https://pitch-webapp.herokuapp.com/
 
 ## Description
 Pitch is a web application that users can pitch ideas, comment and vote on other pitches. It requires for a new user to register and login to access some of the functions like add a pitch, comment and vote
