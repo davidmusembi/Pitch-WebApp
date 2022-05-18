@@ -21,8 +21,8 @@ Pitch is a web application that users can pitch ideas, comment and vote on other
 ## Setup/Installation Requirements
 Follow the following commands to run the project
 * git clone/download ```git@github.com:davidmusembi/Pitch-WebApp.git```
-* cd Pitch
-* Edit the start.sh file with your api key from the news.org website
+* cd Pitch-WebApp
+* Edit the start.sh file with your secret key 
 * Install python 3.10.4
 * Run ```chmod a+x start.py```
 * Run ```./start.py```
